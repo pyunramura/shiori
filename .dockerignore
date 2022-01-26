@@ -1,0 +1,8 @@
+.git*
+docs
+*.md
+*.yml
+Dockerfile
+LICENSE
+modd.conf
+.dockerignore
